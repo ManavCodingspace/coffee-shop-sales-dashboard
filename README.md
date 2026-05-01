@@ -1,13 +1,13 @@
 ☕ Coffee Shop Sales Dashboard (Excel Project)
 
 
-#**📌 Overview**
+**📌 Overview**
 
 This project presents an interactive Coffee Shop Sales Dashboard built using Microsoft Excel. It provides meaningful insights into sales performance, customer behavior, and product trends through dynamic visualizations.
 
 The goal of this project is to demonstrate data analysis, visualization, and dashboard design skills using Excel.
 
-#**📊 Features**
+**📊 Features**
 
 📈 Sales performance analysis (daily, monthly trends)
 
@@ -23,7 +23,7 @@ The goal of this project is to demonstrate data analysis, visualization, and das
 
 🎛️ Filters/Slicers for dynamic exploration
 
-#**🛠️ Tools & Techniques Used**
+**🛠️ Tools & Techniques Used**
 
 Microsoft Excel
 
